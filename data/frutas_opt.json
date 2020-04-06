@@ -1,0 +1,20 @@
+{
+    "nombreApp" : "Jugos Disfrutamos",
+    "Papaya Manzana Piña" : [
+        {
+            "fruta" : "manzana",
+            "foto" : "manzana",
+            "texto": "nada"
+        },
+        {
+            "fruta" : "papaya",
+            "foto" : "papaya",
+            "texto": "nada"
+        },
+        {
+            "fruta" : "piña",
+            "foto" : "piña",
+            "texto": "nada"
+        }
+    ]
+}
